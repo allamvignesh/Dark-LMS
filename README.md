@@ -6,4 +6,8 @@
 3. Create new style and paste code.
 4. Save and Apply.
 
+# Default Theme
+![alt text](https://github.com/allamvignesh/Dark-LMS/blob/main/screenshots/Screenshot%20(7).png?raw=true)
+
+# Dark Theme
 ![alt text](https://github.com/allamvignesh/Dark-LMS/blob/main/screenshots/Screenshot%20(6).png?raw=true)
