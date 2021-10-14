@@ -17109,7 +17109,7 @@ a.bg-dark:hover, button.bg-dark:hover, a.bg-dark:focus, button.bg-dark:focus {
     background-color:transparent!important
 }
 .border {
-    border:1px solid #dee2e6!important
+    border:1px solid #3b7fed!important
 }
 .border-top {
     border-top:1px solid #dee2e6!important
@@ -31376,7 +31376,7 @@ h6 {
     background:var(--concrete)
 }
 #page-site-index .forumpost {
-    background:var(--white)
+    background:#23262b
 }
 #page-site-index #page-header {
     display:none
@@ -32475,7 +32475,7 @@ input[type="reset"][disabled] {
     outline:0
 }
 table {
-    color:var(--color_fuscous_gray_approx)
+    color:#f2f2f2
 }
 table.discussion-list thead th a, table.discussion-list thead th a:hover {
     color:var(--color_allports_approx)
@@ -32493,7 +32493,7 @@ table#form tbody>tr:nth-child(2n+1)>th {
     background:var(--color_black_haze_approx)
 }
 table.flexible {
-    color:var(--color_fuscous_gray_approx)
+    color:#f2f2f2
 }
 table.flexible th {
     line-height:21px;
@@ -32690,7 +32690,7 @@ table.generalbox tbody tr td {
     margin-left:0
 }
 .loginbox .loginpanel {
-    color:var(--color_fuscous_gray_approx)
+    color:#f2f2f2
 }
 .loginbox .loginpanel .loginform {
     padding-bottom:24px;
@@ -33299,7 +33299,7 @@ i.icon :before {
 }
 .fp-site-customdesc p {
     line-height:22px;
-    color:var(--color_fuscous_gray_approx);
+    color:#d2cece;
     margin-bottom:0
 }
 .fp-site-customdesc p a {
