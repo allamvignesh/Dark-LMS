@@ -11,3 +11,5 @@
 
 # Dark Theme
 ![alt text](https://github.com/allamvignesh/Dark-LMS/blob/main/screenshots/Screenshot%20(6).png?raw=true)
+
+# Save your eyes👀
