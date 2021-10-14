@@ -5,3 +5,5 @@
 2. Copy code from Dark lms.css
 3. Create new style and paste code.
 4. Save and Apply.
+
+![alt text](https://github.com/allamvignesh/Dark-LMS/blob/main/screenshots/Screenshot%20(6).png?raw=true)
