@@ -125,6 +125,9 @@ body#page-question-type-calculatedsimple div[id^=fitem_id_][id*=feedback_] {
     font-family:courier, monospace;
     vertical-align:top
 }
+table.coderunnerexamples, table.coderunner-test-results {
+    color:#525151;
+}
 .que.coderunner textarea.edit_code {
     width:100%;
     max-width:100%;
@@ -3516,7 +3519,7 @@ div.course-content div.generalbox.folderbuttons {
 }
 #page-mod-quiz-view table.quizattemptsummary tr.bestrow td {
     border-color:#bce8f1;
-    background-color:#d9edf7
+    background-color:#2a2f31
 }
 table.quizattemptsummary .noreviewmessage {
     color:gray
@@ -12083,7 +12086,8 @@ hr {
 }
 small, .small {
     font-size:80%;
-    font-weight:400
+    font-weight:400;
+    color: #000
 }
 mark, .mark {
     padding:.2em;
@@ -20885,7 +20889,7 @@ body#page-lib-editor-tinymce-plugins-moodlemedia-preview {
     background-size:100%
 }
 .moodle-dialogue-base .moodle-dialogue-wrap {
-    background-color:#fff;
+    background-color:#23262b;
     border:1px solid #ccc
 }
 .modal.show {
@@ -24288,7 +24292,8 @@ body.drawer-ease {
     height:100%;
     width:100%;
     display:table-cell;
-    vertical-align:middle
+    vertical-align:middle;
+    background: #43464b;
 }
 .fp-content-hidden {
     visibility:hidden
@@ -33038,7 +33043,7 @@ table.generalbox tbody tr td {
     font-size:21px
 }
 .course-content .topics .section .activity .contentafterlink p {
-    color:var(--color_fuscous_gray_approx)
+    color:#b7adad
 }
 .course-content .topics .section .activity .contentafterlink .no-overflow {
     line-height:22px
